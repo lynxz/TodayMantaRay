@@ -1,0 +1,17 @@
+birthdays:
+- date:
+    month: 4
+    day: 30
+  birthYear: 1980
+  name: Anders
+- date:
+    month: 7
+    day: 12
+  birthYear: 1981
+  name: Nina
+holidays:
+- start:
+    month: 12
+    day: 24
+  end: 
+  name: Christmas
